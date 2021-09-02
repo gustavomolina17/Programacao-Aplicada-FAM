@@ -1,7 +1,7 @@
 # Conteúdo da Aula de Hoje - 03/09
 
 - Tipos de variáveis
-- Operadores de tribuição
+- Operadores de atribuição
 - Operadores aritméticos
 - Operadores relacionais
 - Operadores lógicos

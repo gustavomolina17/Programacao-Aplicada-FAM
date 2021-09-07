@@ -1,4 +1,4 @@
-# Conteúdo da Aula de Hoje - 03/09
+# Conteúdo da Aula de Hoje - 10/09
 
 
 - Operadores de atribuição

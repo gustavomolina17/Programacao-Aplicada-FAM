@@ -1,22 +1,19 @@
 <h1 align="center">
-    Programação Aplicada FAM - Engenharia Elétrica
+   Exercícios
 </h1>
 
-## Ementa
-- Introdução à Linguagem Java
-- Variáveis
-- Operadores
-- Estruturas de Decisão
-- Estruturas de Repetição
-- Orientação a Objetos (OO)
+1-) Determine qual é a idade que o usuário faz no ano atual. Para isso solicite o ano de nascimento do usuário e o ano atual.
 
+2-) A partir de 3 notas fornecidas de um aluno, informe se ele foi aprovado, ficou de recuperação ou foi reprovado. 
+   - A média de aprovação é >= 7.0; 
+   - A média de recuperação é >= 5.0 e < 7.0; 
+   - A média do reprovado é < 5.0
 
-## IDE utilizada - VS CODE
+3-) Crie um programa que calcule a média salarial de 4 funcionários da empresa XPTO.
 
-- Para realizar a instalação do VS CODE seguir as orientações do video: https://www.youtube.com/watch?v=49K-Zxc8A7A
-- Para configurar o VS CODE corretamente para executar o Java, siga as instruções dessa página: https://codigoecafe.com/2019/07/16/java-no-vs-code/ e faça o download e instalação indicados no site.
+4-) Calcular e apresentar o valor do volume de uma lata de óleo, utilizando fórmula: V = 3.14159 * R * R * A, em que as variáveis: V, R e A representam respectivamente o volume, o raio e a altura.
 
-## Livro Utilizado - Use a cabeça! Java
-![_557e1523b97113efc86f0a03c368bb1b9b19e666](https://user-images.githubusercontent.com/70485830/132382077-406d2300-1919-4649-9460-39cda990e8ce.jpg)
+5-) Calcular o preço final de um produto, sabendo que os descontos são feitos em função do
+preço e segundo a seguinte tabela:
 
-
+![1](https://user-images.githubusercontent.com/70485830/133499398-7add7063-95a8-4350-90d2-ea89e3687d86.PNG)

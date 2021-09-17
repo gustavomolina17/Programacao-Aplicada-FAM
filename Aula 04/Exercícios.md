@@ -12,8 +12,3 @@
 3-) Crie um programa que calcule a média salarial de 4 funcionários da empresa XPTO.
 
 4-) Calcular e apresentar o valor do volume de uma lata de óleo, utilizando fórmula: V = 3.14159 * R * R * A, em que as variáveis: V, R e A representam respectivamente o volume, o raio e a altura.
-
-5-) Calcular o preço final de um produto, sabendo que os descontos são feitos em função do
-preço e segundo a seguinte tabela:
-
-![1](https://user-images.githubusercontent.com/70485830/133499398-7add7063-95a8-4350-90d2-ea89e3687d86.PNG)

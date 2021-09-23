@@ -1,10 +1,9 @@
-# Conteúdo da Aula de Hoje - 24/09
+# Exercícios
 
-- Estruturas de Repetição
-- Exercícios
+1-) Crie um programa que some a idade de 5 pessoas.
+
+2-) Faça um programa que exiba quantas pessoas possuem mais de 18 anos. O programa deverá ler a idade de 10 pessoas.
+
+3-) Crie um programa que calcule o total de uma conta. O usuário deverá informar a quantidade de produtos que serão informados.
 
 
-O material para consulta está disponível no Canvas da disciplina.
-
-
-![image](https://user-images.githubusercontent.com/70485830/134527049-430c6c6f-7fc9-4db4-80b7-9223a6a062fa.png)

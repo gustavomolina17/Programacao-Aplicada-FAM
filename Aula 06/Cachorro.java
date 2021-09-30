@@ -1,7 +1,10 @@
 public class Cachorro {
 
+    // Criação dos atributos
     int tamanho;
     String nome;
+
+    // Criação do Método
 
     void latir() {
 

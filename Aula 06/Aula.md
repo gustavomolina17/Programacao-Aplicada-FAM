@@ -1,10 +1,6 @@
-# Conteúdo da Aula de Hoje - 24/09
+# Conteúdo da Aula de Hoje - 01/10
 
-- Estruturas de Repetição
-- Exercícios
-
-
-O material para consulta está disponível no Canvas da disciplina.
+- Conceitos Básicos de Orientação a Objetos
 
 
-![image](https://user-images.githubusercontent.com/70485830/134527049-430c6c6f-7fc9-4db4-80b7-9223a6a062fa.png)
+![POO](https://user-images.githubusercontent.com/70485830/135475216-1539a4f9-69f5-4bc4-bf43-2fb22cddbd73.png)

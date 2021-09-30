@@ -8,7 +8,7 @@
 - Operadores
 - Estruturas de Decisão
 - Estruturas de Repetição
-- Orientação a Objetos (OO)
+- Orientação a Objetos (OO) - Conceitos
 
 
 ## IDE utilizada - VS CODE

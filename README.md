@@ -8,7 +8,9 @@
 - Operadores
 - Estruturas de Decisão
 - Estruturas de Repetição
-- Orientação a Objetos (OO)
+- Orientação a Objetos (OO) - Conceitos
+- Pacotes e Modificadores de Acesso
+- Encapsulamento
 
 
 ## IDE utilizada - VS CODE

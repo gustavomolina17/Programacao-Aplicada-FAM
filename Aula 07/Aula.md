@@ -1,6 +1,9 @@
-# Conteúdo da Aula de Hoje - 01/10
+# Conteúdo da Aula de Hoje - 08/10
 
-- Conceitos Básicos de Orientação a Objetos
+- Modificadores de Acesso
+- Getters & Setters
+- Encapsulamento
 
 
-![POO](https://user-images.githubusercontent.com/70485830/135475216-1539a4f9-69f5-4bc4-bf43-2fb22cddbd73.png)
+![image](https://user-images.githubusercontent.com/70485830/135535614-9e4be2f1-939b-4d2c-a6fd-ee4e75940396.png)
+

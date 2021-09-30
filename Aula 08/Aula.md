@@ -1,9 +1,9 @@
-# Conteúdo da Aula de Hoje - 08/10
+# Conteúdo da Aula de Hoje - 15/10
 
-- Modificadores de Acesso
-- Getters & Setters
-- Encapsulamento
+- 3º Exercício para nota 
+
+![image](https://user-images.githubusercontent.com/70485830/135541549-b21fdead-45ff-4d52-a6cb-3e233f57aa14.png)
 
 
-![image](https://user-images.githubusercontent.com/70485830/135535614-9e4be2f1-939b-4d2c-a6fd-ee4e75940396.png)
+
 

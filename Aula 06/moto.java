@@ -27,4 +27,16 @@ public class moto {
         System.out.println("BIBI!!!");
     }
 
+    int acelerar(double quantidade) {
+
+        double novaVelocidade = velocidadeAtual + quantidade;
+        velocidadeAtual = novaVelocidade;
+        if (novaVelocidade > velocidadeMaxima) {
+            return 0;
+        } else {
+            return 1;
+        }
+
+    }
+
 }

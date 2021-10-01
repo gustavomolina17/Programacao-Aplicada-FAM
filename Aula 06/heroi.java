@@ -8,8 +8,8 @@ public class heroi {
     String nome;
     int idade;
     String armadura;
-    float peso;
-    float altura;
+    double peso;
+    double altura;
 
     // Métodos (Ações do Objeto)
     // Método void (não tem nenhum retorno numérico)
@@ -23,7 +23,7 @@ public class heroi {
     }
 
     void correr() {
-        System.out.println("O heróis está correndo");
+        System.out.println("O herói está correndo.");
     }
 
 }

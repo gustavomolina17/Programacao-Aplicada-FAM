@@ -21,7 +21,7 @@ public class Caixa {
     // Obtendo os dados iniciais do Cliente
 
     System.out.println("Cadastrando novo cliente.");
-    System.out.print("Ente com seu nome: ");
+    System.out.print("Entre com seu nome: ");
     nome = entrada.nextLine();
 
     System.out.print("Entre com o valor inicial depositado na conta: ");

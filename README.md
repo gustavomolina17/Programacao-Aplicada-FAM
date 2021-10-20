@@ -11,6 +11,7 @@
 - Orientação a Objetos (OO) - Conceitos
 - Pacotes e Modificadores de Acesso
 - Encapsulamento
+- Herança
 
 
 ## IDE utilizada - VS CODE

@@ -1,9 +1,10 @@
-# Conteúdo da Aula de Hoje - 29/10
+# Conteúdo da Aula de Hoje - 5/11
 
-- Polimorfismo
+- Classes Abstratas
 
 
-![image](https://user-images.githubusercontent.com/70485830/138302775-08e33239-f177-4ad4-8402-633bd90f550d.png)
+![image](https://user-images.githubusercontent.com/70485830/138304638-69f819ad-74ee-4f61-b05f-43a0ffb36812.png)
+
 
 
 

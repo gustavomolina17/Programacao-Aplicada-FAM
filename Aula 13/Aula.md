@@ -1,9 +1,10 @@
-# Conteúdo da Aula de Hoje - 12/11
+# Conteúdo da Aula de Hoje - 19/11
 
-- Interfaces
+- Tratamento de exceções
+
+![image](https://user-images.githubusercontent.com/70485830/138307087-370702fb-c34b-4809-9199-315908eb538c.png)
 
 
-![image](https://user-images.githubusercontent.com/70485830/138306134-06a05da5-0d94-4e10-a17a-2112955c540c.png)
 
 
 

@@ -1,4 +1,4 @@
-# Conteúdo da Aula de Hoje - 22//10
+# Conteúdo da Aula de Hoje - 22/10
 
 - Herança
 

@@ -12,6 +12,10 @@
 - Pacotes e Modificadores de Acesso
 - Encapsulamento
 - Herança
+- Polimorfismo
+- Classes Abstratas
+- Interfaces
+- Tratamento de Exceções
 
 
 ## IDE utilizada - VS CODE

@@ -6,6 +6,6 @@ public class Gato extends Animal {
 
     @Override // reescrita do método
     public void som() {
-        System.out.println("O" + this.nome + " que tem " + this.numeroPatas + " patas, faz MIAU!!!");
+        System.out.println("O " + this.nome + " que tem " + this.numeroPatas + " patas, faz MIAU!!!");
     }
 }

@@ -7,7 +7,7 @@ public class Vaca extends Animal { // Herança
 
     @Override // reescrita do método
     public void som() {
-        System.out.println("A" + this.nome + " que tem " + this.numeroPatas + " patas, faz MUUUUU!!!");
+        System.out.println("A " + this.nome + " que tem " + this.numeroPatas + " patas, faz MUUUUU!!!");
     }
 
 }

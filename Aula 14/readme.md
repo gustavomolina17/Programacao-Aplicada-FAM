@@ -1,5 +1,6 @@
 ## Aula 14 - 26/11
 
+- Tratamento de Exceções
 - Plantão de dúvidas & revisão de conteúdo
 
 

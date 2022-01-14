@@ -1,5 +1,5 @@
-<h1 align="center">
-    Programação Aplicada FAM - Engenharia Elétrica
+<h1>
+    Programação Aplicada FAM - Engenharia Elétrica 02/2021
 </h1>
 
 ## Ementa
